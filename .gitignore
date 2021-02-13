@@ -34,7 +34,8 @@ MANIFEST
 # local files not to be tracked
 .vscode/ #vs code settings folder
 local-files/ # local files folder
-local-files/* # local files subfolders containing: bulky resourses, practice notebooks, and starter code notes
+local-files/* # local files subfolders containing: 
+local-files/*/* # bulky resourses, practice notebooks, and starter code notes
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
