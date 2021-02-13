@@ -31,6 +31,11 @@ MANIFEST
 ######################
 .DS_Store
 
+# local files not to be tracked
+.vscode/ #vs code settings folder
+local-files/ # local files folder
+local-files/* # local files subfolders containing: bulky resourses, practice notebooks, and starter code notes
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
