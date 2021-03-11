@@ -40,6 +40,9 @@ MANIFEST
 local-files/
 local-files/*
 local-files/*/*
+postgres_test.ipynb
+resources/
+resources/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
